@@ -9,7 +9,7 @@
     header("Content-type: text/xml");
     header("Refresh:15");
 
-    $urlPath = "http://diskstation/cisco/newsfeed.php";
+    $urlPath = "http://192.168.3.250/cisco/newsfeed.php";
 
     # Recall prior variable state.
     $id = $_SESSION['id'] ?? "";            # App name.
