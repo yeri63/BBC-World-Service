@@ -1,4 +1,4 @@
-# BBC World Service News
+# BBC World Service
 
 ![Screenshot of BBC World News](https://github.com/yeri63/BBC-World-Service/blob/master/newsfeed.png)
 
